@@ -66,7 +66,7 @@ En este repositorio se publicará la información relativa al seguimiento de la 
     * [Ejemplo 1 Depuración](practicas/05-depuracion/debugDemo.zip)
     * [Ejemplo 2 Depuración](practicas/05-depuracion/concurrentDebugDemo.zip)
     * [Ejemplo 3 Log](practicas/05-depuracion/logDemo.zip)
-    * [Reto Depuración](practicas/05-depuracion/RetoDebug.pdf)
+    * [Reto Depuración](practicas/05-depuracion/RetoDebug.pdf) Ejercicio sencillo de depuración.
   
 ## Proyecto
 
