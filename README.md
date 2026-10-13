@@ -52,8 +52,8 @@ En este repositorio se publicará la información relativa al seguimiento de la 
 3. Sesión 4 (semana 28 / septiembre)
     * [Taller Requisitos](practicas/03-requisitos/03-tds-taller-requisitos.pdf)
     * [Enunciados para el taller](practicas/03-requisitos/03-tds-enunciados-requisitos-modelado.pdf)
-    * [Soluciones (1) : AppMusic] (practicas/03-requisitos/03-tds-appmusic-us-soluciones.pdf)
-    * [Soluciones (2) : AppChat] (practicas/03-requisitos/03-tds-appmchat-us-soluciones.pdf)
+    * [Soluciones (1) : AppMusic](practicas/03-requisitos/03-tds-appmusic-us-soluciones.pdf)
+    * [Soluciones (2) : AppChat](practicas/03-requisitos/03-tds-appmchat-us-soluciones.pdf)
 
 4. Sesión 5 (semana 5 / octubre)
     * [Taller Modelado](practicas/04-modelado/04-tds-modelado.pdf)
