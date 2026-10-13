@@ -66,8 +66,9 @@ En este repositorio se publicará la información relativa al seguimiento de la 
     * [Ejemplo 1 Depuración](practicas/05-depuracion/debugDemo.zip)
     * [Ejemplo 2 Depuración](practicas/05-depuracion/concurrentDebugDemo.zip)
     * [Ejemplo 3 Log](practicas/05-depuracion/logDemo.zip)
+    * [Reto Depuración](practicas/05-depuracion/RetoDebug.pdf)
   
 ## Proyecto
 
-[Enunciado del proyecto: Gestión de Gastos](proyecto/tds-proyecto-gestion-gastos.pdf)
-[Ejemplo de gastos a importar en formato CSV](proyecto/tds-ejemplo-datos-gastos.pdf)
+* [Enunciado del proyecto: Gestión de Gastos](proyecto/tds-proyecto-gestion-gastos.pdf)
+* [Ejemplo de gastos a importar en formato CSV](proyecto/tds-ejemplo-datos-gastos.pdf)
