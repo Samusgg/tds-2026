@@ -1,0 +1,79 @@
+package tds.tpv.negocio.modelo.impl;
+
+import java.util.Objects;
+
+import tds.tpv.negocio.modelo.Producto;
+
+
+public class ProductoImpl implements Producto {
+	
+	private String codigo;
+	private String descripcion;
+	private int cantidad;
+	private double precio;
+
+	public ProductoImpl() {
+		this(null, null, 0, 0);	
+	}
+	
+	public ProductoImpl(String codigo, String descripcion, int cantidad, double precio) {
+		this.codigo = codigo;
+		this.descripcion = descripcion;
+		this.cantidad = cantidad;
+		this.precio = precio;
+	}
+
+	@Override
+	public String getCodigo() {
+		return codigo;
+	}
+
+	public void setCodigo(String codigo) {
+		this.codigo = codigo;
+	}
+
+	@Override
+	public String getDescripcion() {
+		return descripcion;
+	}
+
+	public void setDescripcion(String descripcion) {
+		this.descripcion = descripcion;
+	}
+
+	@Override
+	public int getCantidad() {
+		return cantidad;
+	}
+
+	public void setCantidad(int cantidad) {
+		this.cantidad = cantidad;
+	}
+
+	@Override
+	public double getPrecio() {
+		return precio;
+	}
+
+	public void setPrecio(double precio) {
+		this.precio = precio;
+	}
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(cantidad, codigo, descripcion, precio);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		ProductoImpl other = (ProductoImpl) obj;
+		return codigo.equals(other.getCodigo());
+	}
+
+}
