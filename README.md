@@ -37,6 +37,10 @@ En este repositorio se publicará la información relativa al seguimiento de la 
 5. Sesión 5 (semana 05 / octubre)
    * [Tema 3: Algunos conceptos avanzados de programación orientadaa objetos](teoria/transparencias/03-tds-conceptos_oo.pdf)
 
+6. Sesión 6 (semana 12 / octubre)
+   * [Tema 3: Algunos conceptos avanzados de programación orientadaa objetos](teoria/transparencias/03-tds-conceptos_oo.pdf)
+
+
 ## Prácticas
 
 1. Sesión 2 (semana 14 / septiembre)
@@ -67,6 +71,9 @@ En este repositorio se publicará la información relativa al seguimiento de la 
     * [Ejemplo 2 Depuración](practicas/05-depuracion/concurrentDebugDemo.zip)
     * [Ejemplo 3 Log](practicas/05-depuracion/logDemo.zip)
     * [Reto Depuración](practicas/05-depuracion/RetoDebug.pdf) Ejercicio sencillo de depuración.
+  
+6. Sesión 7 (semana 19 / octubre)
+   * [Práctica Arquitectura + JavaFX](practicas/06-arquitectura-javafx)
   
 ## Proyecto
 
