@@ -11,10 +11,12 @@ En este repositorio se publicará la información relativa al seguimiento de la 
 2. Tema 2: Principios básicos de la OO
    * [Transparencias tema 2](teoria/transparencias/02-tds-principios_oo.pdf)
    * [Ejercicios GRASP](ejercicios/01-ejercicios-grasp.pdf)
+   * [Ejercicios GRASP SOLUCIONES](ejercicios/01-ejercicios-grasp-soluciones.pdf)
 3. Tema 3: Algunos conceptos avanzados de programación orientadaa objetos
    * [Transparencias tema 3](teoria/transparencias/03-tds-conceptos_oo.pdf)
+   * [Ejercicios STREAMS 1](ejercicios/02-ejercicios-streams-1.pdf)
+   * [Ejercicios STREAMS 2](ejercicios/02-ejercicios-streams-2.pdf)
 
-   
 
 ### Sesiones
 
@@ -40,6 +42,9 @@ En este repositorio se publicará la información relativa al seguimiento de la 
 6. Sesión 6 (semana 12 / octubre)
    * [Tema 3: Algunos conceptos avanzados de programación orientadaa objetos](teoria/transparencias/03-tds-conceptos_oo.pdf)
 
+7. Sesión 7 (semana 19 / octubre)
+   * [Ejercicios STREAMS 1](ejercicios/02-ejercicios-streams-1.pdf)
+   * [Ejercicios STREAMS 2](ejercicios/02-ejercicios-streams-2.pdf)
 
 ## Prácticas
 
