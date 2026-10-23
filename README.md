@@ -16,7 +16,10 @@ En este repositorio se publicará la información relativa al seguimiento de la 
    * [Transparencias tema 3](teoria/transparencias/03-tds-conceptos_oo.pdf)
    * [Ejercicios STREAMS 1](ejercicios/02-ejercicios-streams-1.pdf)
    * [Ejercicios STREAMS 2](ejercicios/02-ejercicios-streams-2.pdf)
-
+4. Tema 4: Patrones de Diseño
+   * [Patrones Creación](teoria/transparencias/04-tds-patrones_1_creacion.pdf)
+   * [Patrones Estructurales](teoria/transparencias/04-tds-patrones_2_estructurales.pdf)
+   * [Patrones Comportamiento](teoria/transparencias/04-tds-patrones_3_comportamiento.pdf)
 
 ### Sesiones
 
@@ -37,7 +40,7 @@ En este repositorio se publicará la información relativa al seguimiento de la 
    * [Ejercicios GRASP](ejercicios/01-ejercicios-grasp.pdf)
 
 5. Sesión 5 (semana 05 / octubre)
-   * [Tema 3: Algunos conceptos avanzados de programación orientadaa objetos](teoria/transparencias/03-tds-conceptos_oo.pdf)
+   * [Tema 3: Algunos conceptos avanzados de programación orientada a objetos](teoria/transparencias/03-tds-conceptos_oo.pdf)
 
 6. Sesión 6 (semana 12 / octubre)
    * [Tema 3: Algunos conceptos avanzados de programación orientadaa objetos](teoria/transparencias/03-tds-conceptos_oo.pdf)
@@ -45,6 +48,9 @@ En este repositorio se publicará la información relativa al seguimiento de la 
 7. Sesión 7 (semana 19 / octubre)
    * [Ejercicios STREAMS 1](ejercicios/02-ejercicios-streams-1.pdf)
    * [Ejercicios STREAMS 2](ejercicios/02-ejercicios-streams-2.pdf)
+  
+8. Sesión 8 (semana 26 / octubre)
+   * [Tema 4: Patrones de Diseño - Creacion](teoria/transparencias/04-tds-patrones_1_creacion.pdf)
 
 ## Prácticas
 
@@ -80,6 +86,9 @@ En este repositorio se publicará la información relativa al seguimiento de la 
 6. Sesión 7 (semana 19 / octubre)
    * [Práctica Arquitectura + JavaFX](practicas/06-arquitectura-javafx)
   
+7. Sesión 8 (semana 26 / octubre)
+   * [Práctica Arquitectura + JavaFX](practicas/06-arquitectura-javafx)
+    
 ## Proyecto
 
 * [Enunciado del proyecto: Gestión de Gastos](proyecto/tds-proyecto-gestion-gastos.pdf)
