@@ -35,7 +35,8 @@ Plan para la sesión 3:
   * [JavaFX Download](https://gluonhq.com/products/javafx/) Versión 21
   * [Scene Builder Download](https://gluonhq.com/products/scene-builder/) Versión 25
 * [Boletín 2 : JavaFX](02-tds-boletin-javafx.md)
-  * [Ejemplos adicionales](02-tds-boletin-javafx-ejemplos.md) - [Showcase JavaFX](proyectos-ejemplo/showcase-javafx/Readme.md)
-  * [Ejemplo Paso a Paso SceneBuilder](02-tds-boletin-javafx-scenebuilder.md)
+  * [Ejemplos adicionales](02-tds-boletin-javafx-ejemplos.md)
+  * [Ejemplo showcase paneles y gráficas](proyectos-ejemplo/showcase-javafx/Readme.md)
+  * [Ejemplo paso a paso para SceneBuilder](02-tds-boletin-javafx-scenebuilder.md)
 * [Boletín 3 : Java FX](03-tds-boletin-javafx.md) 
     
