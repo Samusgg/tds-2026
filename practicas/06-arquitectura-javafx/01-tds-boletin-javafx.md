@@ -345,8 +345,8 @@ que permite diseñar interfaces gráficas en JavaFX de forma visual, sin escribi
 La forma de uso de Scene Builder consiste arrastrar y soltar componentes como botones, menús, etiquetas o tablas sobre un lienzo, y el programa genera automáticamente un archivo FXML, que describe la estructura de la interfaz. Luego, este archivo puede ser cargado y controlado desde el código Java, separando así la lógica del programa de la presentación visual.
 
 ### Uso desde Eclipse
-Instalar el pulgin de JavaFX para Eclipse en su versión 3.11 (solo disponible como update-site, no en el marketplace)
-[e(fx)clipse 3.11 Plugin - update site](https://download.eclipse.org/efxclipse/updates-nightly/repository/) 
+Instalar el pulgin de JavaFX para Eclipse en su **versión 3.11** (solo disponible como update-site, no en el marketplace)
+[e(fx)clipse 3.12 Plugin - update site](https://download.eclipse.org/efxclipse/updates-nightly/repository/) [e(fx)clipse 3.11 Plugin - update site MIRROR](https://cdimage.debian.org/mirror/eclipse.org/efxclipse/updates-released/3.11.0/repository/)
 
 Si se ha instalado el plugin `e(fx)clipse` es posible crear un fichero FXML directamente en Eclipse y abrir desde ahí Scene Builder. Para ello, `File -> New ... -> JavaFX -> New FXML document`. Se recomienda crear los ficheros FXML en la carpeta `src/main/resources` del proyecto, creando los directorios correspondientes al paquete donde se desea que esté esa interfaz.
 Por ejemplo, si queremos crear `prueba.tds.EjemploVista`, tendremos que utilizar el directorio `src/main/resources/prueba/tds`.
