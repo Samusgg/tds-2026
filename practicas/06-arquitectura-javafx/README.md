@@ -33,6 +33,7 @@ Plan para la sesión 3:
 * [Boletín 1 : JavaFX](01-tds-boletin-javafx.md) - [Video configuración software](https://urldefense.com/v3/__https://umurcia.zoom.us/rec/share/1qGBQ46j04cHusniGCeZrgRebdgWut7vFDBiWRCCyOY6j6hzvqX3kTsP9ixNNWM5.dwj7j_bNFEr0DCb1__;!!D9dNQwwGXtA!QCpD8DCTi5H2L8i_sjHpQqJd64ZTjACiOSjmbqD1z4O6kaJC3W6vCpaMhy1z5uhgycr4q-y0POTzYKQ$) password: 1uKB%bf8
   * [Eclipse Downloads](https://www.eclipse.org/downloads/packages/) Versión 2025-09
   * [JavaFX Download](https://gluonhq.com/products/javafx/) Versión 21
+  * [e(fx)clipse 3.11 Plugin - update site MIRROR](https://cdimage.debian.org/mirror/eclipse.org/efxclipse/updates-released/3.11.0/repository/)
   * [Scene Builder Download](https://gluonhq.com/products/scene-builder/) Versión 25
 * [Boletín 2 : JavaFX](02-tds-boletin-javafx.md)
   * [Ejemplos adicionales](02-tds-boletin-javafx-ejemplos.md)
