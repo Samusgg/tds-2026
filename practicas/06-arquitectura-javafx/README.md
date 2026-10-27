@@ -38,5 +38,4 @@ Plan para la sesión 3:
   * [Ejemplos adicionales](02-tds-boletin-javafx-ejemplos.md) - [Showcase JavaFX](proyectos-ejemplo/showcase-javafx/Readme.md)
   * [Ejemplo Paso a Paso SceneBuilder](02-tds-boletin-javafx-scenebuilder.md)
 * [Boletín 3 : Java FX](03-tds-boletin-javafx.md) 
-* [Ejemplo paneles y graficas](https://github.com/fjavier-umu/asignatura-tds/blob/main/JavaFxShowcase/Readme.md)
     
