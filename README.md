@@ -113,7 +113,7 @@ En este repositorio se publicará la información relativa al seguimiento de la 
 10. Sesión 11 (semana 16 / noviembre)
     * [Práctica Persistencia](practicas/07-persistencia)
 
-11. Sesión 112 (semana 23 / noviembre)
+11. Sesión 12 (semana 23 / noviembre)
     * [Práctica Patrones Diseño](practicas/08-patrones-diseno)
     
 ## Proyecto
