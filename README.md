@@ -64,7 +64,9 @@ En este repositorio se publicará la información relativa al seguimiento de la 
 11. Sesión 11 (semana 16 / noviembre)
     * [Tema 4: Patrones de Diseño - Estructurales](teoria/transparencias/04-tds-patrones_2_estructurales.pdf)
     * [Ejercicios PATRONES](ejercicios/02-ejercicios-patrones.pdf)
-
+11. Sesión 12 (semana 23 / noviembre)
+    * [Ejercicios PATRONES](ejercicios/02-ejercicios-patrones.pdf)
+      
 ## Prácticas
 
 1. Sesión 2 (semana 14 / septiembre)
@@ -104,11 +106,15 @@ En este repositorio se publicará la información relativa al seguimiento de la 
 
 8. Sesión 9 (semana 02 / noviembre)
     * [Práctica Arquitectura + JavaFX](practicas/06-arquitectura-javafx)
+
 9. Sesión 10 (semana 09 / noviembre)
     * [Práctica Arquitectura + JavaFX](practicas/06-arquitectura-javafx)
+
 10. Sesión 11 (semana 16 / noviembre)
     * [Práctica Persistencia](practicas/07-persistencia)
 
+11. Sesión 112 (semana 23 / noviembre)
+    * [Práctica Patrones Diseño](practicas/08-patrones-diseno)
     
 ## Proyecto
 
